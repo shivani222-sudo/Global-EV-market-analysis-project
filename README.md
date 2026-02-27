@@ -5,18 +5,15 @@ The objective is to analyze EV sales, adoption trends, infrastructure readiness,
 
 The project is designed with an industry-style data workflow, including schema design, data quality validation, analytical insights, and views.
 
----
-
 ##  Tech Stack
 SQL– Data modeling, validation, advanced analytics, window functions, views
 Python – Exploratory Data Analysis (EDA) & visualizations
 Excel – Business-level analysis using pivots, KPIs, and charts
 GitHub – Version control and project showcasing
 
----
 
 ## Project Structure
-```text
+
 global-ev-market-analysis/
 │
 ├── SQL/
